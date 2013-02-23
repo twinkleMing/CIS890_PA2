@@ -1,0 +1,1 @@
+Put the original data in a folder named as "RawData", then put PageRank.jar with this folder, run this jar file, then after the program stops, the "cleanData" would hava a file containing the ordered list of pages and their score.
